@@ -1,0 +1,14 @@
+.row{
+	float: left;
+	width: 100%;
+	padding: 10px 5px;
+}
+.col1{
+	float: left;
+	width:20%;
+	margin-top: 1%;
+}
+.col2{
+	float: left;
+	width:60%;
+}
